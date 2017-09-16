@@ -1,0 +1,26 @@
+[{
+    "author":"Brendan Eich",
+    "url":"https://brendaneich.com",
+    "description":"Creator of JavaScript"
+},
+{
+    "author":"Travis Neilson",
+    "url":"https://http://travisneilson.com/",
+    "description":"Creator of DEVTIPS on youtube."
+},
+{
+    "author":"Kyle Mathews",
+    "url":"https://www.bricolage.io/",
+    "description":"Creator of Gatsbyjs.org."
+},
+{
+    "author":"Wes Bos",
+    "url":"http://wesbos.com",
+    "description":""
+},
+{
+    "author":"Scott Tolinski",
+    "url":"http://scotttolinski.com/",
+    "description":"Creator of LevelUpTuts."
+}]
+
